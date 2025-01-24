@@ -3,8 +3,8 @@
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/MananBagadi100/manufacturing_defects
+   cd manufacturing_defects
 
     Create and Activate a Virtual Environment
         On macOS/Linux:
